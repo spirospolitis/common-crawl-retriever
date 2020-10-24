@@ -76,7 +76,7 @@ We opted for creating a self-managed *Elastic* cluster on *Azure* with the follo
 - External load balancer for pushing data from *Spark* on *Elastic* with the use of the *ES-Hadoop* library
 
 
-## Common Crawl sraping with Spark
+## Common Crawl srcaping with Spark
 
 ### Being a good Common Crawl citizen (and avoiding 5xx errors!)
 
