@@ -71,7 +71,7 @@ We opted for creating a self-managed *Elastic* cluster on *Azure* with the follo
 
 - 3 x Standard D2s v3 (2 vcpus, 8 GiB memory) nodes
 
-- 256 GB of RAM per node
+- 256 GB HDD per node
 
 - External load balancer for pushing data from *Spark* on *Elastic* with the use of the *ES-Hadoop* library
 
